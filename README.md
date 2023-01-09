@@ -7,3 +7,18 @@
 使用4個Logistic Regression並給予不同feature，並且使用HuberRegressor、KNNImputer與StandardScaler進行缺值填補等資料前處理。其中loading這項feature最為重要。  
 參考:https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/discussion/349297  
 將其簡化與將training testing分開
+# Working Path
+- 0816023\_Final\_train.py
+- 0816023\_Final\_inference.py
+- model
+    \begin{itemize}
+        - model0
+        - model1
+        - model2
+        - model3
+    \end{itemize}
+- scalermodel
+    - scalermodel0
+    - scalermodel1
+    - scalermodel2
+    - scalermodel3
